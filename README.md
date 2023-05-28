@@ -4,18 +4,10 @@
 An example project showing how [FullCalendar's React Connector](https://fullcalendar.io/docs/react) can be used with [TypeScript](https://www.typescriptlang.org/).
 
 
-## Installation
-
-```bash
-git clone https://github.com/fullcalendar/fullcalendar-examples.git
-cd fullcalendar-examples/react-typescript
-npm install
-```
-
-
 ## Build Commands
 
 ```bash
+npm install
 npm run start # builds and opens a web browser
 
 # other commands:
